@@ -1,2 +1,2 @@
-#Singular Value Decomposition
-##Dataset Available On Kaggle : https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+# Image-Compression-using-SVD
+	Dataset Available On Kaggle : https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
